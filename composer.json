@@ -1,0 +1,7 @@
+{
+    "name": "peter/property-ai",
+    "description": "property ai website and app",
+    "require": {
+        "zordius/lightncandy": "dev-master"
+    }
+}
