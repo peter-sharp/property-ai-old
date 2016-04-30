@@ -1,0 +1,14 @@
+*
+!.gitignore
+!wp-content
+wp-content/*
+!wp-content/plugins
+wp-content/plugins/*
+!wp-content/plugins/property-ai/*
+
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/ai-inteligence/*
+
+/vendor/
+!composer.json
